@@ -1,0 +1,58 @@
+body {
+    background: linear-gradient(to bottom, #666699 0%, #ccffff 100%);
+}
+
+h1 {
+    font-size: 40px;
+}
+
+#app {
+    width: 100%;
+}
+
+#games {
+    width: 100%;
+}
+
+/*img {
+    width: 250px;
+    height: 300px;
+    border-radius: 35px;
+    border-color: crimson;
+    border-style: ridge;
+    border-width: 10px;
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.8);
+    border-color: darkgoldenrod;
+}
+*/
+.line {
+    height: 7px;
+    background-color: coral;
+    width: 130px;
+    margin: 8px auto;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background: linear-gradient(to bottom, #ffcccc 0%, #ff6666 100%);
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+    font-family: fantasy;
+}
